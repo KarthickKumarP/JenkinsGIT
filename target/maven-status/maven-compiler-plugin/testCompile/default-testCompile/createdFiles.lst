@@ -1,0 +1,10 @@
+pages\BookedItenary.class
+steps\HotelBooking.class
+base\BaseClass.class
+pages\SelectHotel.class
+pages\BookHotel.class
+pages\LoginPage.class
+utilities\XLUtils.class
+pages\BookingConfirmation.class
+pages\SearchHotelPage.class
+utilities\ReadConfig.class
